@@ -34,6 +34,11 @@ Django Ecommerce Website
 
 --MY BLOG SECTION--
 
+![DELL - Screenshot (3788)](https://user-images.githubusercontent.com/47920126/112751824-98e38200-8fed-11eb-9c51-1d24409cbfb0.png)
+![DELL - Screenshot (3789)](https://user-images.githubusercontent.com/47920126/112751828-9aad4580-8fed-11eb-9136-7fa42c22fa2b.png)
+![DELL - Screenshot (3789)](https://user-images.githubusercontent.com/47920126/112751829-9b45dc00-8fed-11eb-9607-b90ca083bf43.png)
+![DELL - Screenshot (3790)](https://user-images.githubusercontent.com/47920126/112751830-9bde7280-8fed-11eb-9b93-1b65c9840c24.png)
+![DELL - Screenshot (3790)](https://user-images.githubusercontent.com/47920126/112751831-9bde7280-8fed-11eb-81e3-6b59f77816cd.png)
 
 
 --ABOUT US--
