@@ -5,7 +5,7 @@ Django Ecommerce Website
 --HOME PAGE--
 ![DELL - Screenshot (3780)](https://user-images.githubusercontent.com/47920126/112751563-66855500-8fec-11eb-8945-3769b38ae3b1.png)
 
-
+--SEARCH--
 
 --QUICK VIEW--
 ![DELL - Screenshot (3783)](https://user-images.githubusercontent.com/47920126/112751696-f1fee600-8fec-11eb-8d75-e9dfe90f26c3.png)
@@ -16,6 +16,9 @@ Django Ecommerce Website
 
 
 --CHECK OUT--
+![DELL - Screenshot (3784)](https://user-images.githubusercontent.com/47920126/112751738-1d81d080-8fed-11eb-8b0d-3c51c34d3726.png)
+
+![DELL - Screenshot (3785)](https://user-images.githubusercontent.com/47920126/112751739-1eb2fd80-8fed-11eb-8271-91c01295b5b3.png)
 
 
 --PLACE ORDER--/ORDER CONFIRM NOTIFICATION
