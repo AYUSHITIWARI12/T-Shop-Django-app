@@ -27,6 +27,9 @@ Django Ecommerce Website
 
 
 --ABOUT US--
+![DELL - Screenshot (3781)](https://user-images.githubusercontent.com/47920126/112751661-ba903980-8fec-11eb-9e53-159103474c9e.png)
+
 
 
 --CONTACT US--
+![DELL - Screenshot (3791)](https://user-images.githubusercontent.com/47920126/112751664-be23c080-8fec-11eb-8fbf-2fda850f0dfb.png)
