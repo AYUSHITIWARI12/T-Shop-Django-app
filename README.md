@@ -6,6 +6,8 @@ Django Ecommerce Website
 ![DELL - Screenshot (3780)](https://user-images.githubusercontent.com/47920126/112751563-66855500-8fec-11eb-8945-3769b38ae3b1.png)
 
 --SEARCH--
+![DELL - Screenshot (3792)](https://user-images.githubusercontent.com/47920126/112751770-4a35e800-8fed-11eb-98df-3005767e3a0c.png)
+
 
 --QUICK VIEW--
 ![DELL - Screenshot (3783)](https://user-images.githubusercontent.com/47920126/112751696-f1fee600-8fec-11eb-8d75-e9dfe90f26c3.png)
