@@ -24,8 +24,12 @@ Django Ecommerce Website
 
 
 --PLACE ORDER--/ORDER CONFIRM NOTIFICATION
+![DELL - Screenshot (3786)](https://user-images.githubusercontent.com/47920126/112751793-6b96d400-8fed-11eb-9fa3-ba2d16554888.png)
+![DELL - Screenshot (3787)](https://user-images.githubusercontent.com/47920126/112751795-6fc2f180-8fed-11eb-9f1f-cfd6e5f22993.png)
+
 
 --TRACK ORDER--
+![DELL - Screenshot (3787)](https://user-images.githubusercontent.com/47920126/112751795-6fc2f180-8fed-11eb-9f1f-cfd6e5f22993.png)
 
 
 --MY BLOG SECTION--
